@@ -1,2 +1,2 @@
-# Paquetes-y-uso-de-API-rest-con-Dart-de-datos-generales-de-Argentina
-Paquetes y uso de API rest con Dart de datos generales de Argentina
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
